@@ -25,5 +25,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <!---
+Other options:
+https://github.com/topics/github-profile-readme
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Warr1611)](https://github.com/ryo-ma/github-profile-trophy)
 --->
