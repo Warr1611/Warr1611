@@ -24,4 +24,6 @@ You can click the Preview link to take a look at your changes.
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 </p>
 
+<!---
 [![trophy](https://github-profile-trophy.vercel.app/?username=Warr1611)](https://github.com/ryo-ma/github-profile-trophy)
+--->
